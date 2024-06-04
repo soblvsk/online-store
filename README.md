@@ -53,8 +53,8 @@
 
 ## ⚙️ Tech Stack
 
-- HTML5
-- Sass/SCSS
+- HTML
+- SCSS
 - TypeScript
 - Prettier
 - ESLint
